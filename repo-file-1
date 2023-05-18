@@ -1,0 +1,10 @@
+To use git tool:
+git clone url-path
+git pull
+git status
+git add file-name/.
+git status
+git commit -m "Any message related to modifications"
+git show
+git log
+git push
