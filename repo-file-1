@@ -8,3 +8,4 @@ git commit -m "Any message related to modifications"
 git show
 git log
 git push
+X = 2
