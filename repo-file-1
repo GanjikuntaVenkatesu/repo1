@@ -8,4 +8,9 @@ git commit -m "Any message related to modifications"
 git show
 git log
 git push
-x = 3
+git stash
+git stash list
+git merge branch-name
+git checkout -b branch-name
+git cherry-pick commit/revision ID
+
